@@ -4,7 +4,7 @@ The denoising method was developed based on EDSR [Paper](http://openaccess.thecv
 I used this method to beat other 40+ teams to win 2018 UK AI competition.
 
 ## Task
-The introduction of the challege is here(http://eucompetition.huawei.com/uk/). Organizers provided paired GT images taken by P20 pro and noisy images (They added gaussian noise). We were asked to reduce the noise and recover the original images.
+The introduction of the challege is [here](http://eucompetition.huawei.com/uk/). Organizers provided paired GT images taken by P20 pro and noisy images (They added gaussian noise). We were asked to reduce the noise and recover the original images.
 
 ## Method
 I briefly summarized the details of the method in slide [PDF](https://github.com/ZerojumpLine/Image-Denoising/blob/master/Huawei_Denoise_ZejuLi.pdf).
