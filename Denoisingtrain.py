@@ -28,8 +28,6 @@ parser.add_argument('--model', default='EDSR', type=str, help='choose a type of 
 parser.add_argument('--batch_size', default=64, type=int, help='batch size')
 parser.add_argument('--set_dir', default='/data/Val/', type=str, help='directory of test dataset')
 
-# I made a mistake that ISO21 is mixed with ISO22
-
 parser.add_argument('--set_names', default=['Noisy'], help='directory of test dataset')
 parser.add_argument('--set_namesori', default='Clean', help='directory of test dataset')
 
