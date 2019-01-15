@@ -13,7 +13,7 @@ As I do not know if I can provide the competition data and it is not public anym
 
 ## Performance
 I used this method to beat other 40+ teams to win the 2018 UK AI competition.
-![](/figs/denoise_results.png)
+![Noisy image](/figs/noisy_image.png)![Denoised reults](/figs/denoise_results.png)
 
 ## Acknowledgement
 This code borrows heavily from [pytorch-RCAN-and-EDSR](https://github.com/yulunzhang/RCAN) and [DnCNN](https://github.com/cszn/DnCNN).
