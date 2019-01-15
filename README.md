@@ -1,6 +1,6 @@
 # Image Denoising
 ## Overview
-The denoising method was developed based on EDSR [Paper](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Lim_Enhanced_Deep_Residual_CVPR_2017_paper.pdf), an advanced super-resolution method. I found it could outperform other network architecture such as DnCNN, U-net, Densenet and RCAN in our case of image denoising.
+The denoising method was developed based on EDSR [Paper](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Lim_Enhanced_Deep_Residual_CVPR_2017_paper.pdf), an advanced super-resolution method. I found it could outperform other network architectures such as DnCNN, U-net, Densenet and RCAN in our case of image denoising.
 
 ## Task
 The introduction of the challege is [here](http://eucompetition.huawei.com/uk/). Organizers provided paired GT images taken by P20 pro and noisy images (they added gaussian noise). We were asked to reduce the noise and recover the original images.
